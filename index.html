@@ -11,46 +11,46 @@
   </head>
   <body>
     <div class="content">
-      <div class="image">
-        <img id="DevOps" src="" alt="cat" srcset="T2.png" />
+      <div class="container-fluid">
+        <div class="row">
+          <img id="DevOps" src="" alt="cat" srcset="T2.png" max-width="100%" />
+        </div>
+        <div class="row text-center">
+          <p>
+            <button id="fetch" class="btn btn-primary btn-lg">
+              Show Facts
+            </button>
+          </p>
+          <p id="description" class="description">
+            Click on <strong>Show facts</strong> to fetch some facts
+          </p>
+        </div>
       </div>
-	  <p>
-		<button id="fetch" class="btn btn-primary btn-lg">
-			Show Facts
-		  </button>
-	  </p>
-      <p id="description" class="description">
-        Click on <strong>Show facts</strong> to fetch some facts
-      </p>
     </div>
     <script src="/Content/bootstrap/js/bootstrap.min.js"></script>
-	<script src="/Content/Javascript/sweetalert.js"></script>
-	<script>
-		var factCount=0;
-		$('#fetch').on('click', function(){
-			
-			var author =''
-			var fact ="Here's another Fact"
-			var url='/Content/static/DevopsCloudFacts.json'
-			
-			$.get(url,function(data){
-				if(factCount>=data['DevOps&Cloud Facts'].length){
-					fact="No facts left. Come back later"
-					author="- Yahya Abulhaj"
-					swal(fact,author,'info')
-				}
-				fact = data['DevOps&Cloud Facts'][factCount].quote
-				author = data['DevOps&Cloud Facts'][factCount].author
-				if(author==undefined)
-				author=''
-				else
-				author='- '+ author
-				swal(fact,author,'info')
-			})
-			
-			factCount++;
-			
-		})
-	</script>
+    <script src="/Content/Javascript/sweetalert.js"></script>
+    <script>
+      var factCount = 0;
+      $("#fetch").on("click", function () {
+        var author = "";
+        var fact = "Here's another Fact";
+        var url = "/Content/static/DevopsCloudFacts.json";
+
+        $.get(url, function (data) {
+          if (factCount >= data["DevOps&Cloud Facts"].length) {
+            fact = "No facts left. Come back later";
+            author = "- Yahya Abulhaj";
+            swal(fact, author, "info");
+          }
+          fact = data["DevOps&Cloud Facts"][factCount].quote;
+          author = data["DevOps&Cloud Facts"][factCount].author;
+          if (author == undefined) author = "";
+          else author = "- " + author;
+          swal(fact, author, "info");
+        });
+
+        factCount++;
+      });
+    </script>
   </body>
 </html>
