@@ -1,26 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<link rel="stylesheet" href="style.css" />
-		<title>DevOps & Cloud Facts</title>
-	</head>
-	<body>
-		<div class="content">
-			<div class="image">
-				<img id="DevOps" src="" alt="cat" srcset="T2.png" />
-			</div>
-			<p id="description" class="description">
-				Click on <strong>DevOps & Cloud Facts</strong> to fetch some facts
-			</p>
-			
-			<button id="fetch" class="btn">DevOps & Cloud Facts</button>
-			<p><strong>FACTS ARE IN PROGRESS..</strong></p>
-		</div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="/Content/bootstrap/css/bootstrap.min.css" />
+    <title>DevOps & Cloud Facts</title>
+    <script src="/Content/Javascript/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <div class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <img id="DevOps" src="" alt="cat" srcset="T2.png" max-width="100%" />
+        </div>
+        <div class="row text-center">
+          <p>
+            <button id="fetch" class="btn btn-primary btn-lg">
+              Show Facts
+            </button>
+          </p>
+          <p id="description" class="description">
+            Click on <strong>Show facts</strong> to fetch some facts
+          </p>
+        </div>
+      </div>
+    </div>
+    <script src="/Content/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/Content/Javascript/sweetalert.js"></script>
+    <script>
+      var factCount = 0;
+      $("#fetch").on("click", function () {
+        var author = "";
+        var fact = "Here's another Fact";
+        var url = "/Content/static/DevopsCloudFacts.json";
 
-		
-		<script src="./script.js"></script>
-	</body>
+        $.get(url, function (data) {
+          if (factCount >= data["DevOps&Cloud Facts"].length) {
+            fact = "No facts left. Come back later";
+            author = "- Yahya Abulhaj";
+            swal(fact, author, "info");
+          }
+          fact = data["DevOps&Cloud Facts"][factCount].quote;
+          author = data["DevOps&Cloud Facts"][factCount].author;
+          if (author == undefined) author = "";
+          else author = "- " + author;
+          swal(fact, author, "info");
+        });
+
+        factCount++;
+      });
+    </script>
+  </body>
 </html>
