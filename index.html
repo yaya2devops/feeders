@@ -32,13 +32,13 @@
 			var author =''
 			var fact ="Here's another Fact"
 			var url='/Content/static/DevopsCloudFacts.json'
-			if(factCount>=20){
-				fact="No facts left. Come back later"
-				author="- Yahya Abulhaj"
-				swal(fact,author,'info')
-			}
+			
 			$.get(url,function(data){
-				debugger;
+				if(factCount>=data['DevOps&Cloud Facts'].length){
+					fact="No facts left. Come back later"
+					author="- Yahya Abulhaj"
+					swal(fact,author,'info')
+				}
 				fact = data['DevOps&Cloud Facts'][factCount].quote
 				author = data['DevOps&Cloud Facts'][factCount].author
 				if(author==undefined)
