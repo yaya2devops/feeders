@@ -12,6 +12,10 @@
       "author": "Microsoft"
     },
     {
+      "quote": "DevOps goes beyond just playing a role; the more employees who adopt its principles, the greater the benefits to a business.",
+      "author": "Yahya Abulhaj"
+    },
+    {
       "quote": "CI stands for continuous integration, a fundamental DevOps best practice where developers frequently merge code changes into a central repository where automated builds and tests run. But CD can either mean continuous delivery or continuous deployment.",
       "author": "Atlassian"
     },
