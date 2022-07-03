@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="Content/bootstrap/css/bootstrap.min.css"/>
     <title>DevOps & Cloud Facts</title>
-    <script src="/Content/Javascript/jquery-3.6.0.min.js"></script>
+    <script src="Content/Javascript/jquery-3.6.0.min.js"></script>
   </head>
   <body>
     <div class="content">
@@ -27,14 +27,14 @@
         </div>
       </div>
     </div>
-    <script src="/Content/bootstrap/js/bootstrap.min.js"></script>
-    <script src="/Content/Javascript/jquery-3.6.0.min.js"></script>
+    <script src="Content/bootstrap/js/bootstrap.min.js"></script>
+    <script src="Content/Javascript/jquery-3.6.0.min.js"></script>
     <script>
       var factCount = 0;
       $("#fetch").on("click", function () {
         var author = "";
         var fact = "Here's another Fact";
-        var url = "/Content/static/DevopsCloudFacts.json";
+        var url = "Content/static/DevopsCloudFacts.json";
 
         $.get(url, function (data) {
           if (factCount >= data["DevOps&Cloud Facts"].length) {
