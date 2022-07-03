@@ -5,19 +5,19 @@
     },
     {
       "quote": "❝A compound of development (Dev) and operations (Ops), DevOps is the union of people, process, and technology to continually provide value to customers.❞",
-      "author": "-Microsoft"
+      "author": "Microsoft"
     },
     {
       "quote": "❝DevOps enables formerly siloed roles—development, IT operations, quality engineering, and security—to coordinate and collaborate to produce better, more reliable products. By adopting a DevOps culture along with DevOps practices and tools, teams gain the ability to better respond to customer needs, increase confidence in the applications they build, and achieve business goals faster.❞",
-      "author": "-Microsoft"
+      "author": "Microsoft"
     },
     {
       "quote": "❝DevOps goes beyond just playing a role; the more employees who adopt its principles, the greater the benefits to a business.❞",
-      "author": "-Yahya Abulhaj"
+      "author": "Yahya Abulhaj"
     },
     {
       "quote": "❝CI stands for continuous integration, a fundamental DevOps best practice where developers frequently merge code changes into a central repository where automated builds and tests run. But CD can either mean continuous delivery or continuous deployment.❞",
-      "author": "-Atlassian"
+      "author": "Atlassian"
     },
     {
       "quote": "❝Agile refers to an iterative approach which focuses on collaboration, customer feedback, and small, rapid releases. DevOps is considered a practice of bringing development and operations teams together.❞"
@@ -36,45 +36,45 @@
     },
     {
       "quote": "❝DevOps is a culture, fostering collaboration amongst all participants involved in the development and maintenance of software. Agile can be described as a development methodology designed to maintain productivity and drive releases with the common reality of changing needs.❞",
-      "author": "-Microsoft"
+      "author": "Microsoft"
     },
     {
       "quote": "❝DevOps is all about the unification and automation of processes, and DevOps engineers are instrumental in combining code, application maintenance, and application management. All of these tasks rely on understanding not only development life cycles, but DevOps culture, and its philosophy, practices, and tools.❞",
-      "author": "-RedHat"
+      "author": "RedHat"
     },
     {
       "quote": "❝The most powerful tool we have as developers is automation.❞",
-      "author": "-Scott Hanselman"
+      "author": "Scott Hanselman"
     },
     {
       "quote": "❝DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity❞",
-      "author": "-Amazon"
+      "author": "Amazon"
     },
     {
       "quote": "❝DevOps is evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.❞",
-      "author": "-Amazon"
+      "author": "Amazon"
     },
     {
       "quote": "☁️CloudFacts!⬇️"
     },
     {
       "quote": "❝Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software❞",
-      "author": "-Investopedia"
+      "author": "Investopedia"
     },
     {
       "quote": "There are many Cloud Service providers in the market Amazon Web Service AWS, ServerSpace, Microsoft Azure, Google Cloud Platform, IBM Cloud Services, Adobe Creative Cloud."
     },
     {
       "quote": "❝I don't need a hard disk in my computer if I can get to the server faster… carrying around these non-connected computers is byzantine by comparison.❞",
-      "author": "-Steve Jobs"
+      "author": "Steve Jobs"
     },
     {
       "quote": "❝If someone asks me what cloud computing is, I try not to get bogged down with definitions. I tell them that, simply put, cloud computing is a better way to run your business.❞",
-      "author": "-Marc Benioff, CEO Salesforce"
+      "author": "Marc Benioff, CEO Salesforce"
     },
     {
       "quote": "❝Every kid coming out of school now thinks he can be the next Mark Zuckerberg, and with these new technologies like cloud computing, he actually has a shot.❞",
-      "author": "-Marc Andreessen, Co-founder of Netscape, Board Member of Facebook"
+      "author": "Marc Andreessen, Co-founder of Netscape, Board Member of Facebook"
     }
   ]
 }
