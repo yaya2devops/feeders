@@ -8,13 +8,26 @@
       "author": "Microsoft"
     },
     {
-      "quote": "❝DevOps enables formerly siloed roles—development, IT operations, quality engineering, and security—to coordinate and collaborate to produce better, more reliable products. By adopting a DevOps culture along with DevOps practices and tools, teams gain the ability to better respond to customer needs, increase confidence in the applications they build, and achieve business goals faster.❞",
-      "author": "Microsoft"
+      "quote": "❝DevOps adoption means that you are willing to change fast, develop fast, test fast, fail fast, recover fast, learn fast and push the product/features fast to the market.❞",
+      "author": "Pavan Belagatti"
     },
+    
+
     {
       "quote": "❝DevOps goes beyond just playing a role; the more employees who adopt its principles, the greater the benefits to a business.❞",
       "author": "Yahya Abulhaj"
     },
+    
+    {
+      "quote": "“Practice the philosophy of continuous improvement. Get a little bit better every single day.”",
+      "author": "Brian Tracy"
+    },
+    
+    {
+      "quote": "❝DevOps enables formerly siloed roles—development, IT operations, quality engineering, and security—to coordinate and collaborate to produce better, more reliable products. By adopting a DevOps culture along with DevOps practices and tools, teams gain the ability to better respond to customer needs, increase confidence in the applications they build, and achieve business goals faster.❞",
+      "author": "Microsoft"
+    },
+    
     {
       "quote": "❝CI stands for continuous integration, a fundamental DevOps best practice where developers frequently merge code changes into a central repository where automated builds and tests run. But CD can either mean continuous delivery or continuous deployment.❞",
       "author": "Atlassian"
@@ -26,6 +39,11 @@
     {
       "quote": "❝Agile refers to an iterative approach which focuses on collaboration, customer feedback, and small, rapid releases. DevOps is considered a practice of bringing development and operations teams together.❞"
     },
+    {
+      "quote": "❝Agile and DevOps are for harnessing integration, interaction, and innovation.❞"
+       "author": "Pearl Zhu"
+    },
+    
     {
       "quote": "❝To successfully implement continuous delivery, you need to change the culture of how an entire organization views software development efforts.❞"
     },
@@ -62,11 +80,32 @@
       "quote": "☁️CloudFacts!☁️"
     },
     {
+      "quote": "❝First to mind when asked what 'the cloud' is, a majority respond it’s either an actual cloud, the sky, or something related to weather.❞",
+      "author": "Citrix"
+    },
+  
+    {
       "quote": "❝Cloud computing is the delivery of different services through the Internet. These resources include tools and applications like data storage, servers, databases, networking, and software❞",
       "author": "Investopedia"
+    },  
+    {
+      "quote": "❝Cloud computing is often far more secure than traditional computing, because companies like Google and Amazon can attract and retain cyber-security personnel of a higher quality than many governmental agencies.❞",
+      "author": "Vivek Kundra"
     },
     {
+      "quote": "❝Cloud computing is a great euphemism for centralization of computer services under one server.❞",
+      "author": "Evgeny Morozov"
+    },  
+    {
       "quote": "There are many Cloud Service providers in the market Amazon Web Service AWS, ServerSpace, Microsoft Azure, Google Cloud Platform, IBM Cloud Services, Adobe Creative Cloud."
+    },
+    {
+      "quote": "❝Cloud computing is a challenge to security, but one that can be overcome.❞",
+      "author": "Whitfield Diffie"
+    },
+    {
+      "quote": "❝Cloud is about how you do computing, not where you do computing.❞",
+      "author": "Paul Maritz"
     },
     {
       "quote": "❝I don't need a hard disk in my computer if I can get to the server faster… carrying around these non-connected computers is byzantine by comparison.❞",
