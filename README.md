@@ -1,14 +1,16 @@
-### ➡️ An engaging [website](https://y4hya4.github.io/DevOpsAndCloudFacts/) for finding my awesome quotes collection from the world of DevOps & Cloud Computing!
+# [DevOps And Cloud Facts](https://y4hya4.github.io/DevOpsAndCloudFacts/)
+
 
 <img class="img" src="V4.png" alt="TITLE">
+
+Engaging website where you can browse my **favorite** quotations from the world of DevOps and Cloud Computing!
 
 ---
 
 ## Quotations
-
-- [x] About DevOps
-- [x] About Cloud
-- [ ] About DevOps Tools: IaC(Terraform, Ansible), Containers, Linux OS, Version Control, Nexus, Jenkins, TeamCity, Harness
+- 18 DevOps Quotes.
+- 10 Cloud Quotes
+> Goal = 100Quotes
 
 
 
