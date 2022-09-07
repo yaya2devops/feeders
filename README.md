@@ -8,9 +8,9 @@ Engaging website where you can browse my **favorite** quotations from the world 
 ---
 
 ## Quotations
-- 18 DevOps Quotes.
-- 10 Cloud Quotes
-> Goal = 100Quotes
+- [X] 18 DevOps Quotes.
+- [X] 10 Cloud Quotes
+
 
 
 
