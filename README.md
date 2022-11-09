@@ -3,7 +3,6 @@ Engaging website where you can browse my **favorite** quotations from the world 
 
 <img class="img" src="favi (2).png" alt="TITLE" width="200">
 
-> Become a DevOps Engineer❓
 
 
 
