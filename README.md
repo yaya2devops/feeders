@@ -11,7 +11,7 @@ If you're looking for some great quotes on DevOps and Cloud Computing, then you'
 I've gathered together some of my favorite quotations from experts in the field, and I'm sure you'll find them just as insightful as I have. Take a look around and see for yourself!
 
 - [X] 24 DevOps Quotes.
-- [X] 25 Cloud Quotes
+- [X] 24 Cloud Quotes
 - [ ] The Mix.
 
 
