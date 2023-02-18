@@ -11,11 +11,39 @@
       "quote": "❝DevOps adoption means that you are willing to change fast, develop fast, test fast, fail fast, recover fast, learn fast and push the product/features fast to the market.❞",
       "author": "Pavan Belagatti"
     },
-    
-
     {
       "quote": "❝DevOps goes beyond just playing a role; the more employees who adopt its principles, the greater the benefits to a business.❞",
       "author": "Yahya Abulhaj"
+    },
+
+    {
+    "quote": "❝DevOps is not just about automation and tools, it’s also about a cultural shift where collaboration and communication is valued over individual achievements.❞",
+    "author": "Jez Humble"
+    },
+
+    {
+    "quote": "❝DevOps is a practice, not a role or title. It requires multiple disciplines to come together to work collaboratively and deliver business value quickly.❞",
+    "author": "Damon Edwards"
+    },
+
+    {
+    "quote": "❝In a world of change, the ability to experiment and learn is critical.❞",
+    "author": "Jez Humble"
+    },
+
+    {
+    "quote": "❝The goal of DevOps is to create a culture of shared responsibility for the delivery of high-quality software.❞",
+    "author": "Gene Kim"
+    },
+
+    {
+    "quote": "❝The key to successful DevOps adoption is to start small, get quick wins, and then scale up.❞",
+    "author": "Patrick Debois"
+    },
+
+    {
+    "quote": "❝In the end, DevOps is not a goal, but a means to an end. The goal is to deliver software that provides value to the customer and the business.❞",
+    "author": "Markus Andrezak"
     },
     
     {
@@ -89,13 +117,60 @@
       "author": "Investopedia"
     },  
     {
+    "quote": "❝Cloud computing allows small businesses to compete with enterprise companies, since it lowers the barrier to entry and reduces costs.❞",
+    "author": "Joe Weinman"
+    },
+    
+    {
+    "quote": "❝The cloud is not a trend, it's not a fad. It's a shift from a traditional model to an on-demand model.❞",
+    "author": "Joe McKendrick"
+    },
+    
+    {
+    "quote": "❝Cloud computing is the great enabler of innovation.❞",
+    "author": "Steve Ballmer"
+    },
+    
+    {
+    "quote": "❝The cloud is like a race car engine: you don't need to know how it works to drive it, but it helps to understand so you can get the most out of it.❞",
+    "author": "Bernard Golden"
+    },
+    
+    {
+    "quote": "❝The cloud is not just about cost savings, it's about agility and innovation.❞",
+    "author": "Diane Greene"
+    },
+    
+    {
+    "quote": "❝The cloud is not a destination, it's a journey.❞",
+    "author": "Michael Dell"
+    },
+    
+    {
+    "quote": "❝The cloud is a powerful tool for digital transformation, enabling organizations to scale, innovate, and create new business models.❞",
+    "author": "Paul Daugherty"
+    },
+    
+    {
+    "quote": "❝The cloud is not a one-size-fits-all solution, it's about finding the right mix of public, private, and hybrid cloud for your organization.❞",
+    "author": "John Treadway"
+    },
+    
+    {
+    "quote": "❝The cloud is not just a technology, it's a business strategy.❞",
+    "author": "Marc Benioff"
+    },
+
+    {
       "quote": "❝Cloud computing is often far more secure than traditional computing, because companies like Google and Amazon can attract and retain cyber-security personnel of a higher quality than many governmental agencies.❞",
       "author": "Vivek Kundra"
     },
+
     {
       "quote": "❝Cloud computing is a great euphemism for centralization of computer services under one server.❞",
       "author": "Evgeny Morozov"
-    },  
+    }, 
+
     {
       "quote": "There are many Cloud Service providers in the market Amazon Web Service AWS, ServerSpace, Microsoft Azure, Google Cloud Platform, IBM Cloud Services, Adobe Creative Cloud."
     },
@@ -108,6 +183,10 @@
       "author": "Paul Maritz"
     },
     {
+      "quote": "❝The cloud is not a technology, it’s a business model, a new way of delivering and consuming computing services.❞",
+      "author": "Paul Maritz"
+    },
+    {
       "quote": "❝I don't need a hard disk in my computer if I can get to the server faster… carrying around these non-connected computers is byzantine by comparison.❞",
       "author": "Steve Jobs"
     },
@@ -116,8 +195,24 @@
       "author": "Marc Benioff, CEO Salesforce"
     },
     {
+      "quote": "❝Cloud computing is really a no-brainer for any start-up because it allows you to test your business plan very quickly for little money.❞",
+      "author": "Marc Benioff"
+    },
+    {
+      "quote": "❝Cloud computing is empowering, as anyone with a credit card can deploy a powerful application in a matter of minutes.❞",
+      "author": "Jamie Turner"
+    },
+    {
+      "quote": "❝The cloud is the ultimate equalizer. You don’t need a huge capital investment or massive IT staff to compete there.❞",
+      "author": "Vivek Kundra"
+    },
+    {
       "quote": "❝Every kid coming out of school now thinks he can be the next Mark Zuckerberg, and with these new technologies like cloud computing, he actually has a shot.❞",
       "author": "Marc Andreessen, Co-founder of Netscape, Board Member of Facebook"
+    },
+    {
+      "quote": "❝The cloud is not a technology, it's an operating model.❞",
+      "author": "John Engates"
     }
   ]
 }
