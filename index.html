@@ -14,7 +14,7 @@
     <div class="container-fluid">
       <div class="row mt-5">
         <div class="col"></div>
-        <div class="col-md-6"><img id="DevOps" src="" alt="cat" srcset="mobile.png" width="100%" /></div>
+        <div class="col-md-6"><img id="DevOps" src="" alt="cat" srcset="assets/theme.png" width="100%" /></div>
         <div class="col"></div>
       </div>
       <div class="row text-center mt-5">
@@ -38,7 +38,7 @@
         $.get(url, function (data) {
           if (factCount >= data["DevOps&Cloud Facts"].length) {
             fact = "No facts left. Come back later";
-            author = "- Yahya Abulhaj";
+            author = "- Yaya";
             swal(fact, author, "info");
           }
           fact = data["DevOps&Cloud Facts"][factCount].quote;

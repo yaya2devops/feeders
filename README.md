@@ -1,19 +1,22 @@
 # [DevOps And Cloud Facts](https://y4hya4.github.io/DevOpsAndCloudFacts/)
 
-If you're looking for some great quotes on DevOps and Cloud Computing, then you'll definitely want to check out my website.
+If you're looking for some great quotes on DevOps and Cloud Computing, then you'll definitely want to check out my website with total of **48 great sayings**.
 
-<img class="img" src="assets/yesb.png" alt="TITLE">
+I've been fully engaged in this voyage and on it so I am sharing;
+
+- A treasure trove of great people quotations.
+- Unique insights of my own just for you.
 
 
+<img class="img" src="assets/theme.png" alt="TITLE">
 
 
-## Quotations
-I've gathered together some of my favorite quotations from experts in the field, and I'm sure you'll find them just as insightful as I have. Take a look around and see for yourself!
+This is a passionate call to action! 
 
-- [X] 24 DevOps Quotes.
-- [X] 24 Cloud Quotes
-- [ ] The Mix.
+An invitation to join me on this inspiring journey and sharing my joy.
 
+|[Take a look](https://devops.yahya-abulhaj.dev/) around and see for yourself
+|---|
 
 
 
