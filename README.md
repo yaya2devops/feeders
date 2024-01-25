@@ -1,4 +1,4 @@
-# [DevOps And Cloud Facts](https://y4hya4.github.io/DevOpsAndCloudFacts/)
+# [DevOps And Cloud Facts](https://devops.ya-ya.tech)
 
 If you're looking for some great quotes on DevOps and Cloud Computing, then you'll definitely want to check out my website with total of **48 great sayings**.
 
@@ -15,7 +15,7 @@ This is a passionate call to action!
 
 An invitation to join me on this inspiring journey and sharing my joy.
 
-|[Take a look](https://devops.yahya-abulhaj.dev/) around and see for yourself
+|[Take a look](https://devops.ya-ya.tech) around and see for yourself
 |---|
 
 
