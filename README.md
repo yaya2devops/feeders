@@ -1,4 +1,4 @@
-# [DevOps And Cloud Facts](https://devops.ya-ya.tech)
+# [DevOps & Cloud Facts](https://devops.ya-ya.tech)
 
 If you're looking for some great quotes on DevOps and Cloud Computing, then you'll definitely want to check out my website with total of **48 great sayings**.
 
